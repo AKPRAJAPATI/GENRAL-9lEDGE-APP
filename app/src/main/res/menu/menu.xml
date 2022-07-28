@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_pradhan_mantri"
+            android:title="@string/pradhanmantri" />
+        <item
+            android:id="@+id/nav_cheap_minister"
+
+            android:title="@string/mukhyamantri" />
+        <item
+            android:id="@+id/nav_rajya_rajdhani"
+
+            android:title="@string/rajya_rajdhani" />
+        <item
+            android:id="@+id/nav_purvPradhanmatri"
+
+            android:title="@string/purv_prdhanmantri" />
+        <item
+            android:id="@+id/nav_rajyaPal"
+
+            android:title="@string/raj_rajpal" />
+
+    </group>
+    <item android:title="Contect Us">
+        <menu>
+            <item
+                android:id="@+id/shareApp"
+
+                android:title="शेयर एप्प" />
+            <item
+                android:id="@+id/rateUs"
+
+                android:title="रेट अस" />
+            <item
+                android:id="@+id/privacy_policy"
+                android:title="Privacy policy" />
+
+            <item
+                android:id="@+id/nav_developer"
+
+                android:title="डेवलपर प्रोफाइल" />
+
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Genral 9Ledge</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="first">1st</string>
+    <string name="second">2nd</string>
+    <string name="third">3rd</string>
+    <string name="fourth">4th</string>
+    <string name="fifth">5th</string>
+    <string name="sixth">6th</string>
+    <string name="seventh">7nth</string>
+    <string name="eight">8th</string>
+    <string name="nineth">9th</string>
+    <string name="tenth">10th</string>
+    <string name="eleventh">11th</string>
+    <string name="twelveth">12th</string>
+    <string name="thirteen">13en</string>
+    <string name="forteen">14en</string>
+    <string name="fifteen">15en</string>
+    <string name="sixteen">16en</string>
+    <string name="seventeen">17en</string>
+    <string name="eighteen">18en</string>
+    <string name="nineteen">19en</string>
+    <string name="twenty">20ty</string>
+    <string name="twelve1">21</string>
+    <string name="twelve2">22</string>
+    <string name="twelve3">23</string>
+    <string name="twelve4">24</string>
+    <string name="twelve5">25</string>
+    <string name="twelve6">26</string>
+    <string name="twelve7">27</string>
+    <string name="twelve8">28</string>
+    <string name="twelve9">29</string>
+    <string name="thirty">30</string>
+    <string name="thirty1">31</string>
+    <string name="thirty2">32</string>
+    <string name="thirty3">33</string>
+    <string name="pradhanmantri">प्रधानमंत्री</string>
+    <string name="mukhyamantri">मुख्यमंत्री</string>
+    <string name="rajya_rajdhani">राज्य और राजधानी</string>
+    <string name="purv_prdhanmantri">पूर्व प्रधानमंत्री</string>
+    <string name="raj_rajpal">राज पाल</string>
+
+    <!--    This is orgininal ads-->
+    <!--    <string name="rewared">ca-app-pub-9898269998695494/9830259883</string>-->
+    <!--    <string name="native_ad_adapter">ca-app-pub-9898269998695494/4464955390</string>   -->
+
+
+    <string name="rewared">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="native_ad_adapter">ca-app-pub-3940256099942544/2247696110</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
